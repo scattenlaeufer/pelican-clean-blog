@@ -1,0 +1,24 @@
+.color-base {
+  color: #aa6039;
+}
+
+.color-second {
+  color: #549431;
+}
+
+.color-third {
+  color: #2b4b6f;
+}
+
+div.carousel-image {
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  /* display: table-cell; */
+  vertical-align: middle;
+}
+
+div .carousel-image img {
+  object-fit: cover;
+}
